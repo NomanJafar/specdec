@@ -14,7 +14,7 @@ Faster decode with zero quality loss is the closest thing to a free lunch in inf
 
 ## Status
 
-Concept primer written (`CONCEPTS.md`). The notebook and analysis code are next; results land in `results/` once the GPU runs are done.
+Primer, analysis code and the notebook are done; the GPU run is next. Results land in `results/` and below once it has run.
 
 ## Layout
 
