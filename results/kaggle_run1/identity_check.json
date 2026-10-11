@@ -1,0 +1,7 @@
+{
+ "baseline": true,
+ "draft k=1": true,
+ "draft k=3": true,
+ "draft k=5": true,
+ "ngram k=4": true
+}
