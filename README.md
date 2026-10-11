@@ -14,7 +14,7 @@ Faster decode with zero quality loss is the closest thing to a free lunch in inf
 
 ## Status
 
-Scaffolded. Concept notes and the first implementation are in progress; results land in `results/` once the GPU runs are done.
+Concept primer written (`CONCEPTS.md`). The notebook and analysis code are next; results land in `results/` once the GPU runs are done.
 
 ## Layout
 
